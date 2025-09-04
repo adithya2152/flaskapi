@@ -83,4 +83,4 @@ export default function App() {
       </NavigationContainer>
     </PaperProvider>
   );
-}</parameter>
+}
